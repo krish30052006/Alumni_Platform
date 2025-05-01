@@ -1,0 +1,446 @@
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-03-28T21:46:50.270Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-03-28T21:46:50.277Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-28T21:46:50.282Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-03-28T21:47:00.065Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-03-28T21:49:09.510Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-03-28T21:49:09.515Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-28T21:49:09.518Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-03-28T21:49:18.756Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-03-28T21:49:18.760Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-28T21:49:18.764Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-03-28T21:52:47.648Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-03-28T21:52:47.654Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-28T21:52:47.658Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-28T21:55:12.599Z"}
+{"level":"error","message":"Error: User validation failed: firstName: First name is required, lastName: Last name is required","stack":"ValidationError: User validation failed: firstName: First name is required, lastName: Last name is required\n    at Document.invalidate (E:\\A_NEW_Project_here\\web_app\\alumni-backend\\node_modules\\mongoose\\lib\\document.js:3219:32)\n    at E:\\A_NEW_Project_here\\web_app\\alumni-backend\\node_modules\\mongoose\\lib\\document.js:3012:17\n    at E:\\A_NEW_Project_here\\web_app\\alumni-backend\\node_modules\\mongoose\\lib\\schematype.js:1368:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)","statusCode":500,"timestamp":"2025-03-28T21:55:12.694Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-28T22:01:56.080Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-03-28T22:13:48.936Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-03-28T22:13:48.941Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-28T22:13:48.946Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-28T22:15:31.679Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-03-29T04:31:34.246Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-03-29T04:31:34.248Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T04:31:34.251Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T04:35:54.594Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-03-29T04:50:42.331Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-03-29T05:03:43.235Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-03-29T05:11:12.884Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-03-29T05:39:32.267Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-03-29T05:39:32.270Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T05:39:32.273Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-03-29T05:40:42.395Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-03-29T05:40:42.399Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T05:40:42.402Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-03-29T05:42:12.298Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-03-29T05:42:12.301Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T05:42:12.308Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-03-29T05:45:36.925Z"}
+{"level":"info","message":"GET /api/auth/google","timestamp":"2025-03-29T05:57:44.576Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T06:03:26.628Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T06:06:16.432Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:20:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-03-29T06:06:16.442Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-03-29T06:19:19.864Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-03-29T06:19:19.867Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T06:19:19.873Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-03-29T06:19:35.305Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-03-29T06:21:49.985Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-03-29T06:21:49.988Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T06:21:49.992Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T06:22:08.887Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:21:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-03-29T06:22:08.909Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T06:23:45.590Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:21:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-03-29T06:23:45.594Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T06:24:25.750Z"}
+{"level":"error","message":"Error: Failed to send verification email","stack":"Error: Failed to send verification email\n    at sendVerificationEmail (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/config/email.js:41:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:39:5)","statusCode":500,"timestamp":"2025-03-29T06:24:26.266Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-03-29T06:25:15.575Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-03-29T06:25:15.580Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T06:25:15.586Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T06:25:35.989Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:21:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-03-29T06:25:36.006Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-03-29T06:26:35.491Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-03-29T06:26:35.493Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T06:26:35.496Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T06:26:40.543Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:21:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-03-29T06:26:40.559Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T06:27:33.425Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:21:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-03-29T06:27:33.432Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-03-29T06:30:19.472Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-03-29T06:30:19.478Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T06:30:19.481Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T06:30:21.138Z"}
+{"level":"error","message":"Error: Health","stack":"Error: Health\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-03-29T06:30:21.153Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-03-29T06:31:47.938Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-03-29T06:31:47.944Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T06:31:47.949Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T06:31:50.570Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:31:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-03-29T06:31:50.587Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-03-29T06:32:36.957Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-03-29T06:32:36.960Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T06:32:36.964Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T06:32:41.063Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-03-29T06:33:42.264Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-03-29T06:33:42.269Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T06:33:42.276Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T06:34:07.915Z"}
+{"level":"error","message":"Error: User validation failed: password: Path `password` (`123456`) is shorter than the minimum allowed length (8).","stack":"ValidationError: User validation failed: password: Path `password` (`123456`) is shorter than the minimum allowed length (8).\n    at Document.invalidate (D:\\sem 4\\DAA\\web_app\\web_app\\alumni-backend\\node_modules\\mongoose\\lib\\document.js:3219:32)\n    at D:\\sem 4\\DAA\\web_app\\web_app\\alumni-backend\\node_modules\\mongoose\\lib\\document.js:3012:17\n    at D:\\sem 4\\DAA\\web_app\\web_app\\alumni-backend\\node_modules\\mongoose\\lib\\schematype.js:1368:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)","statusCode":500,"timestamp":"2025-03-29T06:34:07.951Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T06:34:29.254Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T06:35:45.051Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-03-29T06:38:41.919Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-03-29T06:38:41.924Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T06:38:41.930Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T06:39:06.133Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=7aff432548aee45b6710c9775de120c0134f62c21ac22a2c4b2bd30b57b0787c","timestamp":"2025-03-29T06:39:27.887Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=7aff432548aee45b6710c9775de120c0134f62c21ac22a2c4b2bd30b57b0787c","timestamp":"2025-03-29T06:39:27.935Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T06:41:11.830Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=577d04b2394ee5c5e9836df389ab888669681c73c3822edbaa5598fcac7a0dc3","timestamp":"2025-03-29T06:41:22.940Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=577d04b2394ee5c5e9836df389ab888669681c73c3822edbaa5598fcac7a0dc3","timestamp":"2025-03-29T06:41:22.975Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-03-29T06:41:54.086Z"}
+{"level":"error","message":"Error: Invalid email or password","stack":"Error: Invalid email or password\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:140:13)","statusCode":401,"timestamp":"2025-03-29T06:41:54.161Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-03-29T06:42:08.526Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T06:42:37.379Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-03-29T06:42:57.278Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:145:13)","statusCode":401,"timestamp":"2025-03-29T06:42:57.350Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=70e5a5fd7bd2d51d5535e68ba71ab2dee4473dcc75cf87e699624497c1ef8258","timestamp":"2025-03-29T06:43:09.030Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=70e5a5fd7bd2d51d5535e68ba71ab2dee4473dcc75cf87e699624497c1ef8258","timestamp":"2025-03-29T06:43:09.057Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-03-29T06:43:19.728Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T06:45:21.941Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T06:45:22.673Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:31:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-03-29T06:45:22.680Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T06:46:12.876Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T06:46:13.496Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:31:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-03-29T06:46:13.506Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=18b419e6e14ff036b6eabc653bca50608ed9e2f4fd7cb87c567930b70a98476c","timestamp":"2025-03-29T06:46:24.947Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=18b419e6e14ff036b6eabc653bca50608ed9e2f4fd7cb87c567930b70a98476c","timestamp":"2025-03-29T06:46:24.966Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=18b419e6e14ff036b6eabc653bca50608ed9e2f4fd7cb87c567930b70a98476c","timestamp":"2025-03-29T06:46:57.710Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=18b419e6e14ff036b6eabc653bca50608ed9e2f4fd7cb87c567930b70a98476c","timestamp":"2025-03-29T06:46:57.725Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-03-29T06:56:59.429Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-03-29T06:56:59.432Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T06:56:59.437Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T06:57:44.085Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=d1a1ea688c4dbef74c97900aa0fb9b544e08ab19d203b622c10459b040df1424","timestamp":"2025-03-29T06:57:56.607Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=d1a1ea688c4dbef74c97900aa0fb9b544e08ab19d203b622c10459b040df1424","timestamp":"2025-03-29T06:57:56.641Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-03-29T06:58:10.619Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-03-29T07:03:41.148Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T07:05:18.231Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=5c434967a104554d4ba7e4550006defc7534b2ab378e29ff3d02bc5546161415","timestamp":"2025-03-29T07:05:28.157Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=5c434967a104554d4ba7e4550006defc7534b2ab378e29ff3d02bc5546161415","timestamp":"2025-03-29T07:05:28.175Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-03-29T07:05:48.774Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-03-29T07:11:42.073Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-03-29T07:11:52.334Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-03-29T07:12:15.130Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-03-29T07:25:02.184Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-03-29T07:50:55.803Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-03-29T07:51:23.169Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-03-29T07:51:23.172Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T07:51:23.176Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-03-29T07:51:54.423Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-03-29T08:01:10.646Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-03-29T08:01:10.649Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T08:01:10.652Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-03-29T08:03:54.465Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-03-29T08:03:54.467Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-03-29T08:03:54.470Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-03-29T08:06:41.678Z"}
+{"level":"error","message":"Error: Invalid email or password","stack":"Error: Invalid email or password\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:115:13)","statusCode":401,"timestamp":"2025-03-29T08:06:41.764Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T08:14:41.555Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-03-29T08:14:43.582Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-03-29T08:14:43.587Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=13209da62ec93107b6c2a723d11d21a686e0c588d188a0b19e7d974a70124122","timestamp":"2025-03-29T08:14:56.212Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=13209da62ec93107b6c2a723d11d21a686e0c588d188a0b19e7d974a70124122","timestamp":"2025-03-29T08:14:56.258Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-03-29T08:15:09.802Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-04-25T06:47:30.076Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-04-25T06:47:30.079Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-04-25T06:47:30.083Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-25T06:55:13.592Z"}
+{"level":"error","message":"Error: Invalid email or password","stack":"Error: Invalid email or password\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:115:13)","statusCode":401,"timestamp":"2025-04-25T06:55:13.703Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-25T06:56:03.395Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-25T06:56:17.019Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:120:13)","statusCode":401,"timestamp":"2025-04-25T06:56:17.089Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-25T06:56:34.338Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:120:13)","statusCode":401,"timestamp":"2025-04-25T06:56:34.407Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-25T06:57:54.260Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-25T06:58:08.665Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:120:13)","statusCode":401,"timestamp":"2025-04-25T06:58:08.737Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-25T06:58:21.097Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:120:13)","statusCode":401,"timestamp":"2025-04-25T06:58:21.166Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-25T06:58:46.057Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:120:13)","statusCode":401,"timestamp":"2025-04-25T06:58:46.127Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-25T06:59:37.992Z"}
+{"level":"error","message":"Error: Invalid email or password","stack":"Error: Invalid email or password\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:115:13)","statusCode":401,"timestamp":"2025-04-25T06:59:37.996Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-25T06:59:50.027Z"}
+{"level":"error","message":"Error: Invalid email or password","stack":"Error: Invalid email or password\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:115:13)","statusCode":401,"timestamp":"2025-04-25T06:59:50.029Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-04-25T07:00:25.829Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-04-25T07:00:25.832Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-04-25T07:00:25.835Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-25T07:00:56.103Z"}
+{"level":"error","message":"Error: Invalid email or password","stack":"Error: Invalid email or password\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:115:13)","statusCode":401,"timestamp":"2025-04-25T07:00:56.114Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-25T07:01:20.169Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=a4a31c8be5ae61e5de4dc56201ba64f3da9f6689a696ebc09829f0fc171db65c","timestamp":"2025-04-25T07:02:32.099Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=a4a31c8be5ae61e5de4dc56201ba64f3da9f6689a696ebc09829f0fc171db65c","timestamp":"2025-04-25T07:02:32.158Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-25T07:02:42.049Z"}
+{"level":"info","message":"GET /api/directory/alumni","timestamp":"2025-04-25T07:22:05.876Z"}
+{"level":"info","message":"GET /api/directory/alumni","timestamp":"2025-04-25T07:22:05.897Z"}
+{"level":"info","message":"GET /api/profile/alumni","timestamp":"2025-04-25T07:22:39.293Z"}
+{"level":"info","message":"GET /api/profile/alumni","timestamp":"2025-04-25T07:22:39.306Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-25T07:23:45.460Z"}
+{"level":"error","message":"Error: Invalid email or password","stack":"Error: Invalid email or password\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:115:13)","statusCode":401,"timestamp":"2025-04-25T07:23:45.500Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-25T07:24:25.202Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:120:13)","statusCode":401,"timestamp":"2025-04-25T07:24:25.273Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-25T07:24:35.133Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:120:13)","statusCode":401,"timestamp":"2025-04-25T07:24:35.203Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-25T07:25:04.118Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:120:13)","statusCode":401,"timestamp":"2025-04-25T07:25:04.194Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-25T07:25:17.067Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:120:13)","statusCode":401,"timestamp":"2025-04-25T07:25:17.137Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-25T07:25:37.269Z"}
+{"level":"info","message":"GET /api/profile/alumni","timestamp":"2025-04-25T07:25:46.376Z"}
+{"level":"info","message":"GET /api/profile/alumni","timestamp":"2025-04-25T07:25:46.379Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-25T07:25:55.581Z"}
+{"level":"info","message":"GET /api/profile/alumni","timestamp":"2025-04-25T07:25:56.903Z"}
+{"level":"info","message":"GET /api/profile/alumni","timestamp":"2025-04-25T07:25:56.909Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-25T07:26:25.814Z"}
+{"level":"info","message":"PUT /api/auth/profile","timestamp":"2025-04-25T07:41:12.729Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-25T07:41:22.556Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:48:12.843Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:48:12.855Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:48:15.354Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:48:15.366Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:48:16.163Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:48:16.173Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:48:17.773Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:48:17.796Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:48:17.988Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:48:17.999Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:48:18.164Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:48:18.186Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:48:18.398Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:48:18.410Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:48:19.051Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:48:19.064Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:48:19.371Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:48:19.382Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:48:19.838Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:48:19.848Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:48:20.182Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:48:20.206Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:48:23.687Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:48:23.702Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-04-25T07:49:15.217Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-04-25T07:49:15.220Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-04-25T07:49:15.224Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:49:41.659Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:49:41.683Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-25T07:50:34.694Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:53:57.812Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:53:57.817Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-25T07:56:32.309Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:56:33.135Z"}
+{"level":"info","message":"GET /api/auth/profile","timestamp":"2025-04-25T07:56:33.139Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-25T07:57:39.882Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-25T07:57:40.055Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:31:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-25T07:57:40.060Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-25T07:57:58.783Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:135:13)","statusCode":401,"timestamp":"2025-04-25T07:57:58.857Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-25T07:58:15.989Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-25T08:00:12.297Z"}
+{"level":"info","message":"GET /","timestamp":"2025-04-26T15:16:21.423Z"}
+{"level":"info","message":"GET /","timestamp":"2025-04-26T15:16:31.834Z"}
+{"level":"info","message":"GET /loginMsg.js","timestamp":"2025-04-26T15:16:31.859Z"}
+{"level":"info","message":"GET /cgi/get.cgi?cmd=home_login","timestamp":"2025-04-26T15:16:31.911Z"}
+{"level":"info","message":"GET /rootDesc.xml","timestamp":"2025-04-26T15:16:33.229Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-27T12:20:22.275Z"}
+{"level":"error","message":"Error: Invalid email or password","stack":"Error: Invalid email or password\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:130:13)","statusCode":401,"timestamp":"2025-04-27T12:20:22.435Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-27T12:20:37.532Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-27T12:21:24.716Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:31:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-27T12:21:24.732Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-27T12:21:31.733Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:31:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-27T12:21:31.738Z"}
+{"level":"info","message":"GET /","timestamp":"2025-04-27T16:37:11.677Z"}
+{"level":"info","message":"GET /","timestamp":"2025-04-27T16:37:22.071Z"}
+{"level":"info","message":"GET /loginMsg.js","timestamp":"2025-04-27T16:37:22.082Z"}
+{"level":"info","message":"GET /cgi/get.cgi?cmd=home_login","timestamp":"2025-04-27T16:37:22.101Z"}
+{"level":"info","message":"GET /rootDesc.xml","timestamp":"2025-04-27T16:37:23.437Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-04-30T08:37:20.555Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-04-30T08:37:20.558Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-04-30T08:37:20.563Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T08:38:52.885Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T08:38:52.923Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T08:39:07.071Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T09:06:41.359Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T09:06:44.946Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T09:06:44.950Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T09:06:45.102Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T09:06:45.109Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T09:07:09.156Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:120:13)","statusCode":401,"timestamp":"2025-04-30T09:07:09.227Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=be7341977bfbcd37a033bcabab5a349e86d826fe6c226efa1ac801f5a1257da7","timestamp":"2025-04-30T09:07:49.353Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=be7341977bfbcd37a033bcabab5a349e86d826fe6c226efa1ac801f5a1257da7","timestamp":"2025-04-30T09:07:49.383Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T09:08:14.674Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T09:18:24.917Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T09:18:24.921Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T09:18:44.827Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T09:18:44.829Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T09:18:45.271Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T09:18:45.273Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T09:18:45.431Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T09:18:45.437Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T09:18:57.798Z"}
+{"level":"error","message":"Error: Invalid email or password","stack":"Error: Invalid email or password\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:115:13)","statusCode":401,"timestamp":"2025-04-30T09:18:57.871Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T09:19:13.396Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T09:23:01.950Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T09:23:01.953Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T09:23:25.988Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T09:23:25.993Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T09:23:27.030Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T09:23:27.034Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T09:23:27.199Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T09:23:27.205Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T09:23:53.175Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T09:26:34.810Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T09:27:37.538Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:120:13)","statusCode":401,"timestamp":"2025-04-30T09:27:37.612Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T09:29:50.406Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T09:29:52.278Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T09:29:52.281Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T09:29:52.452Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T09:29:52.458Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T09:30:13.607Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:120:13)","statusCode":401,"timestamp":"2025-04-30T09:30:13.676Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T09:30:26.314Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:120:13)","statusCode":401,"timestamp":"2025-04-30T09:30:26.382Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T09:31:33.893Z"}
+{"level":"error","message":"Error: Invalid email or password","stack":"Error: Invalid email or password\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:115:13)","statusCode":401,"timestamp":"2025-04-30T09:31:33.967Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T09:31:50.515Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:120:13)","statusCode":401,"timestamp":"2025-04-30T09:31:50.585Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-04-30T09:32:38.321Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-04-30T09:32:38.324Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-04-30T09:32:38.328Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T09:33:15.552Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:120:13)","statusCode":401,"timestamp":"2025-04-30T09:33:15.637Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T09:33:50.191Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T09:33:50.197Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T09:33:55.740Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T09:33:55.745Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T09:33:55.907Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T09:33:55.914Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T09:34:11.580Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T09:34:11.585Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T09:34:21.276Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:120:13)","statusCode":401,"timestamp":"2025-04-30T09:34:21.346Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T09:37:04.561Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T09:37:04.565Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T09:37:19.238Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:120:13)","statusCode":401,"timestamp":"2025-04-30T09:37:19.312Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-04-30T09:42:25.854Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-04-30T09:42:25.857Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-04-30T09:42:25.860Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T09:43:02.778Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T09:43:04.378Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T09:43:04.385Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T09:43:22.343Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:120:13)","statusCode":401,"timestamp":"2025-04-30T09:43:22.412Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=225de56aa4d3471de1f446578d9295c933ab4964a86e26e51ef69db1f74e83b5","timestamp":"2025-04-30T09:43:40.315Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=225de56aa4d3471de1f446578d9295c933ab4964a86e26e51ef69db1f74e83b5","timestamp":"2025-04-30T09:43:40.364Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T09:43:52.902Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T10:01:01.850Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T10:01:04.426Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T10:01:04.434Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T10:07:43.442Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T10:07:45.819Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T10:07:45.827Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T10:07:46.011Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T10:07:46.014Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=c3675fa006f5bef815667375551edb9f8ef4b121208f3b6bcd5025848eece7b2","timestamp":"2025-04-30T10:09:32.399Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=c3675fa006f5bef815667375551edb9f8ef4b121208f3b6bcd5025848eece7b2","timestamp":"2025-04-30T10:09:32.425Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T10:11:28.053Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T10:11:31.004Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T10:11:31.014Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T10:11:31.166Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T10:11:31.173Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=74216eef3d89edf6a1982a71ad4d32c365c40f40106bc987542cf1185f240f19","timestamp":"2025-04-30T10:11:57.622Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=74216eef3d89edf6a1982a71ad4d32c365c40f40106bc987542cf1185f240f19","timestamp":"2025-04-30T10:11:57.648Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T10:12:09.290Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T10:12:39.641Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T10:12:42.348Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T10:12:42.355Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T10:12:42.546Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T10:12:42.552Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=48ef5203db3cb7f4ac7af7e2162d7ba576bbf91034e321d04cf53f7959a37748","timestamp":"2025-04-30T10:13:02.040Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=48ef5203db3cb7f4ac7af7e2162d7ba576bbf91034e321d04cf53f7959a37748","timestamp":"2025-04-30T10:13:02.058Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T10:13:14.741Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T10:14:14.190Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=bda104df87e866c565bb2dedcffd2c66d7b2dbabefda8e41726018a0336f4c5e","timestamp":"2025-04-30T10:14:39.695Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=bda104df87e866c565bb2dedcffd2c66d7b2dbabefda8e41726018a0336f4c5e","timestamp":"2025-04-30T10:14:39.720Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T10:14:50.987Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T10:15:57.133Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T10:16:05.565Z"}
+{"level":"error","message":"Error: Invalid email or password","stack":"Error: Invalid email or password\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:115:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":401,"timestamp":"2025-04-30T10:16:05.568Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T10:16:42.183Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T10:16:54.076Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:120:13)","statusCode":401,"timestamp":"2025-04-30T10:16:54.144Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=be7341977bfbcd37a033bcabab5a349e86d826fe6c226efa1ac801f5a1257da7","timestamp":"2025-04-30T10:17:20.658Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=be7341977bfbcd37a033bcabab5a349e86d826fe6c226efa1ac801f5a1257da7","timestamp":"2025-04-30T10:17:20.674Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T10:17:30.478Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:120:13)","statusCode":401,"timestamp":"2025-04-30T10:17:30.551Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T10:17:40.825Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-04-30T15:59:22.359Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-04-30T15:59:22.361Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-04-30T15:59:22.366Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-04-30T16:38:40.156Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-04-30T16:38:40.159Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-04-30T16:38:40.161Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T16:40:53.293Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T16:40:55.971Z"}
+{"level":"error","message":"Error: Email already registered","stack":"Error: Email already registered\n    at register (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:23:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","statusCode":400,"timestamp":"2025-04-30T16:40:55.980Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=c3675fa006f5bef815667375551edb9f8ef4b121208f3b6bcd5025848eece7b2","timestamp":"2025-04-30T16:41:32.736Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=c3675fa006f5bef815667375551edb9f8ef4b121208f3b6bcd5025848eece7b2","timestamp":"2025-04-30T16:41:32.772Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T16:41:48.108Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///D:/sem%204/DAA/web_app/web_app/alumni-backend/src/controllers/auth.controller.js:120:13)","statusCode":401,"timestamp":"2025-04-30T16:41:48.178Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T16:42:22.502Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=d9bb000679dfc0d500112a5756a220d351923cc25d0d1eb8d4231449f1750041","timestamp":"2025-04-30T16:42:49.473Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=d9bb000679dfc0d500112a5756a220d351923cc25d0d1eb8d4231449f1750041","timestamp":"2025-04-30T16:42:49.492Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T16:42:59.248Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T16:45:37.049Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=6ebd152ea3fd8bf1e723d9bbc66060bdba479c1cb71dfc341d1d933cf5ab460c","timestamp":"2025-04-30T16:45:54.698Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=6ebd152ea3fd8bf1e723d9bbc66060bdba479c1cb71dfc341d1d933cf5ab460c","timestamp":"2025-04-30T16:45:54.717Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T16:46:03.940Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-04-30T16:58:32.143Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-04-30T16:58:32.146Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-04-30T16:58:32.151Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T16:59:19.908Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T16:59:45.228Z"}
+{"level":"error","message":"Error: Invalid email or password","stack":"Error: Invalid email or password\n    at login (file:///C:/Users/KASHYAP/Documents/Alumni_association-Platform/web_app/alumni-backend/src/controllers/auth.controller.js:115:13)","statusCode":401,"timestamp":"2025-04-30T16:59:45.308Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-04-30T17:02:53.983Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-04-30T17:02:53.987Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-04-30T17:02:53.990Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-04-30T17:04:05.214Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T17:04:25.118Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///C:/Users/KASHYAP/Documents/Alumni_association-Platform/web_app/alumni-backend/src/controllers/auth.controller.js:120:13)","statusCode":401,"timestamp":"2025-04-30T17:04:25.189Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=d67635697927d1a36aa670ec8f7e9f54b5aae138506c5296e132805d6c93254c","timestamp":"2025-04-30T17:04:37.287Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=d67635697927d1a36aa670ec8f7e9f54b5aae138506c5296e132805d6c93254c","timestamp":"2025-04-30T17:04:37.328Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-04-30T17:04:47.117Z"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-05-01T04:00:32.983Z"}
+{"level":"info","message":"Connected to MongoDB successfully","timestamp":"2025-05-01T04:00:32.986Z"}
+{"level":"info","message":"Server is running on port 5000","timestamp":"2025-05-01T04:00:32.990Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-05-01T04:02:06.392Z"}
+{"level":"info","message":"GET /","timestamp":"2025-05-01T04:03:19.619Z"}
+{"level":"info","message":"GET /","timestamp":"2025-05-01T04:03:35.902Z"}
+{"level":"info","message":"GET /loginMsg.js","timestamp":"2025-05-01T04:03:35.921Z"}
+{"level":"info","message":"GET /cgi/get.cgi?cmd=home_login","timestamp":"2025-05-01T04:03:35.933Z"}
+{"level":"info","message":"GET /rootDesc.xml","timestamp":"2025-05-01T04:03:37.584Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-05-01T04:04:49.483Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=64a914a7e82ae7cc39629a7f1e708d3d7ab3238ec10f3222cfe2460a460f811d","timestamp":"2025-05-01T04:05:26.558Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=64a914a7e82ae7cc39629a7f1e708d3d7ab3238ec10f3222cfe2460a460f811d","timestamp":"2025-05-01T04:05:26.590Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-05-01T04:05:34.529Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///C:/Users/KASHYAP/Documents/Alumni_association-Platform/web_app/alumni-backend/src/controllers/auth.controller.js:120:13)","statusCode":401,"timestamp":"2025-05-01T04:05:34.599Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-05-01T04:05:45.078Z"}
+{"level":"error","message":"Error: Please verify your email before logging in","stack":"Error: Please verify your email before logging in\n    at login (file:///C:/Users/KASHYAP/Documents/Alumni_association-Platform/web_app/alumni-backend/src/controllers/auth.controller.js:120:13)","statusCode":401,"timestamp":"2025-05-01T04:05:45.149Z"}
+{"level":"info","message":"POST /api/auth/register","timestamp":"2025-05-01T04:06:37.078Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=9169315e83469f770fc44db45730d223251027a51d8ea43efcb8e33eb851e909","timestamp":"2025-05-01T04:07:00.581Z"}
+{"level":"info","message":"GET /api/auth/verify-email?token=9169315e83469f770fc44db45730d223251027a51d8ea43efcb8e33eb851e909","timestamp":"2025-05-01T04:07:00.614Z"}
+{"level":"info","message":"POST /api/auth/login","timestamp":"2025-05-01T04:07:12.053Z"}
+{"level":"info","message":"GET /","timestamp":"2025-05-01T04:15:42.664Z"}
+{"level":"info","message":"GET /","timestamp":"2025-05-01T04:15:58.918Z"}
+{"level":"info","message":"GET /loginMsg.js","timestamp":"2025-05-01T04:15:58.929Z"}
+{"level":"info","message":"GET /cgi/get.cgi?cmd=home_login","timestamp":"2025-05-01T04:15:58.938Z"}
+{"level":"info","message":"GET /rootDesc.xml","timestamp":"2025-05-01T04:16:00.306Z"}
